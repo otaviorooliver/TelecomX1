@@ -38,7 +38,3 @@ Após a análise, identificou-se que a base possui uma taxa de evasão de **27%*
 * Oferecer benefícios para clientes que cadastrarem métodos de pagamento automáticos.
 * Criar um programa de Onboarding focado nos primeiros meses de assinatura para garantir a satisfação inicial do cliente.
 
-## 📂 Como executar este projeto
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
